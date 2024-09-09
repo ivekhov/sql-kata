@@ -1,0 +1,5 @@
+.env
+.dbeaver/
+.DS_Store
+.project
+.Data/
