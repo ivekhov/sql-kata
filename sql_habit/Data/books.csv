@@ -1,0 +1,743 @@
+id,name,genre,pages_count,slug
+4,The Doors of the Prophecy,Detective,247,the-doors-of-the-prophecy
+5,The Silence's Name,Fairy tale,227,the-silence-s-name
+6,The Game of the Boy,Fairy tale,468,the-game-of-the-boy
+7,Obsessed Dreamer,Comic/Graphic Novel,341,obsessed-dreamer
+8,The Person's Wind,Comic/Graphic Novel,352,the-person-s-wind
+9,The Absent Words,Thriller,309,the-absent-words
+10,The Misty Waves,Fantasy,503,the-misty-waves
+11,Door in the Flowers,Nonfiction,528,door-in-the-flowers
+12,Silence of Man,Detective,418,silence-of-man
+13,The History's Dreams,Detective,410,the-history-s-dreams
+14,Playful Search,Fairy tale,597,playful-search
+16,Licking Stream,Thriller,374,licking-stream
+18,Spirit in the Destruction,Classic,238,spirit-in-the-destruction
+19,School in the Birth,Classic,569,school-in-the-birth
+21,The Laughing Light,Fantasy,513,the-laughing-light
+22,Window of Truth,Horror,241,window-of-truth
+23,Streams of Destiny,Thriller,375,streams-of-destiny
+25,The Shadow's Secrets,Thriller,460,the-shadow-s-secrets
+26,Illusion in the Sky,Thriller,256,illusion-in-the-sky
+27,The Last Sword,Fairy tale,339,the-last-sword
+28,Shores of Doors,Detective,261,shores-of-doors
+30,The Green Game,Comic/Graphic Novel,228,the-green-game
+31,The Absent Dream,Thriller,364,the-absent-dream
+32,The Willing Boy,Fantasy,335,the-willing-boy
+35,The Rainbow's Dreams,Fantasy,427,the-rainbow-s-dreams
+37,Trainer of Secret,Science fiction,210,trainer-of-secret
+38,The Whispering Fire,Fantasy,260,the-whispering-fire
+39,Dreams in the Healer,Nonfiction,456,dreams-in-the-healer
+41,The Emerald Ships,Thriller,154,the-emerald-ships
+42,The Professional Wave,Classic,510,the-professional-wave
+43,Lights in the Ashes,Fairy tale,202,lights-in-the-ashes
+44,Silent Gate,Detective,481,silent-gate
+46,The Flames of the Flames,Classic,488,the-flames-of-the-flames
+47,Wizards of Someone,Classic,507,wizards-of-someone
+50,Swollen Ships,Biography,480,swollen-ships
+51,Search in the Lord,Thriller,595,search-in-the-lord
+52,Cracked Voyage,Horror,249,cracked-voyage
+53,Cloud of Flames,Thriller,455,cloud-of-flames
+55,The Storm's Shores,Thriller,318,the-storm-s-shores
+56,The Silken Legacy,Fantasy,590,the-silken-legacy
+58,Devoted Destiny,Science fiction,577,devoted-destiny
+59,The Spark of the Obsession,Science fiction,279,the-spark-of-the-obsession
+60,Green Words,Thriller,182,green-words
+61,Slithering Wizard,Horror,515,slithering-wizard
+63,The Frozen Fairy,Detective,523,the-frozen-fairy
+64,Wings in the Mist,Science fiction,286,wings-in-the-mist
+65,Pleasure of Stars,Comic/Graphic Novel,288,pleasure-of-stars
+66,Voyagers of Silk,Fairy tale,389,voyagers-of-silk
+68,The Silence's Fairy,Detective,372,the-silence-s-fairy
+69,Darkness of Ship,Nonfiction,366,darkness-of-ship
+70,The Splintered Game,Thriller,403,the-splintered-game
+71,Edge of Tales,Fantasy,431,edge-of-tales
+73,Snow of Tears,Science fiction,306,snow-of-tears
+74,Ice of Voyages,Thriller,483,ice-of-voyages
+75,The Green Stones,Fantasy,562,the-green-stones
+78,Truth of Flames,Detective,465,truth-of-flames
+80,The Prized Elves,Comic/Graphic Novel,247,the-prized-elves
+81,Weeping Trainer,Nonfiction,431,weeping-trainer
+82,End in the Servants,Fantasy,264,end-in-the-servants
+84,Final Game,Classic,310,final-game
+85,Angel in the Danger,Horror,309,angel-in-the-danger
+87,Tears of Edge,Fantasy,448,tears-of-edge
+88,Wet Girl,Nonfiction,265,wet-girl
+90,What Past,Comic/Graphic Novel,307,what-past
+92,Stream of Beginning,Fantasy,481,stream-of-beginning
+93,The Sky of the Hustler,Fantasy,395,the-sky-of-the-hustler
+94,The Green Flight,Biography,265,the-green-flight
+97,Ship of Woman,Biography,307,ship-of-woman
+98,Nobody of Voyage,Biography,429,nobody-of-voyage
+99,Eager Truth,Detective,290,eager-truth
+100,Swords in the Blade,Detective,196,swords-in-the-blade
+101,The What Thought,Fantasy,299,the-what-thought
+104,Silk of Time,Nonfiction,421,silk-of-time
+105,Servants in the Body,Science fiction,405,servants-in-the-body
+107,The Winter's Pleasure,Nonfiction,152,the-winter-s-pleasure
+108,The Flying's Eyes,Fantasy,455,the-flying-s-eyes
+124,The Sky of the Names,Biography,334,the-sky-of-the-names
+128,Names in the Worlds,Horror,229,names-in-the-worlds
+176,Absent Wings,Classic,375,absent-wings
+182,Time in the Serpent,Science fiction,476,time-in-the-serpent
+192,The Vacant Wind,Nonfiction,194,the-vacant-wind
+3,The Dwindling Mist,Biography,204,the-dwindling-mist
+111,Spirits in the Spirit,Fairy tale,185,spirits-in-the-spirit
+112,Rings in the Danger,Nonfiction,502,rings-in-the-danger
+113,Hunter of Secrets,Thriller,364,hunter-of-secrets
+115,Storms of Years,Horror,153,storms-of-years
+117,The Sword's Princess,Fantasy,179,the-sword-s-princess
+118,The Moon's Soul,Fantasy,553,the-moon-s-soul
+119,The Emerald of the Names,Biography,541,the-emerald-of-the-names
+120,Servant in the Shard,Fairy tale,399,servant-in-the-shard
+122,Years of Truth,Fantasy,193,years-of-truth
+123,The Vacant Secrets,Horror,184,the-vacant-secrets
+125,The Child of the Light,Classic,512,the-child-of-the-light
+126,All Luck,Fantasy,562,all-luck
+129,Edge in the Twilight,Comic/Graphic Novel,328,edge-in-the-twilight
+132,The Return of the Streams,Detective,248,the-return-of-the-streams
+134,Shard in the Slave,Biography,446,shard-in-the-slave
+135,The Edge's Sword,Fantasy,417,the-edge-s-sword
+136,The Roses's Mist,Horror,186,the-roses-s-mist
+138,Bloody Ship,Fantasy,324,bloody-ship
+139,The Petals's Silk,Fantasy,583,the-petals-s-silk
+140,Kiss of Valley,Biography,539,kiss-of-valley
+142,The Third World,Detective,376,the-third-world
+143,Sliver of Year,Horror,320,sliver-of-year
+145,The Shadowy Rose,Thriller,382,the-shadowy-rose
+148,The Memory of the Sparks,Fantasy,452,the-memory-of-the-sparks
+152,Weeping of Flight,Thriller,245,weeping-of-flight
+153,Eyes in the Willow,Fantasy,238,eyes-in-the-willow
+154,The Princess's Misty,Classic,263,the-princess-s-misty
+156,Twilight of Dreaming,Comic/Graphic Novel,498,twilight-of-dreaming
+157,Thoughts in the Eyes,Comic/Graphic Novel,346,thoughts-in-the-eyes
+158,Wizards in the Edge,Biography,233,wizards-in-the-edge
+160,The Silken Swords,Fantasy,583,the-silken-swords
+161,The Diamond Silk,Science fiction,249,the-diamond-silk
+162,The Dark Witch,Fairy tale,171,the-dark-witch
+163,The Laughing Ring,Thriller,358,the-laughing-ring
+165,The Door of the Roses,Fantasy,537,the-door-of-the-roses
+166,The Moons of the Bride,Fairy tale,411,the-moons-of-the-bride
+167,The Willow's Moons,Detective,519,the-willow-s-moons
+168,Danger of World,Fantasy,367,danger-of-world
+170,Abyss of Swords,Detective,490,abyss-of-swords
+171,Shards of Weeping,Classic,155,shards-of-weeping
+174,Wild Angels,Detective,327,wild-angels
+175,The Seventh Years,Horror,583,the-seventh-years
+177,Healer of Serpents,Nonfiction,345,healer-of-serpents
+178,Forgotten Courage,Thriller,428,forgotten-courage
+183,Slithering Husband,Science fiction,345,slithering-husband
+184,The Blade of the Thoughts,Biography,455,the-blade-of-the-thoughts
+186,The Heart of the Light,Fairy tale,458,the-heart-of-the-light
+188,Rose of Sons,Fairy tale,425,rose-of-sons
+189,The Legacy's Door,Classic,385,the-legacy-s-door
+190,The Trainer of the Angels,Biography,440,the-trainer-of-the-angels
+193,The Lovely Waves,Fairy tale,378,the-lovely-waves
+194,The Lover's Scent,Biography,333,the-lover-s-scent
+195,Kiss in the Destiny,Science fiction,570,kiss-in-the-destiny
+197,Way of Waves,Fairy tale,215,way-of-waves
+198,The Prophecy of the Scent,Nonfiction,532,the-prophecy-of-the-scent
+199,The Sky's Thoughts,Fantasy,366,the-sky-s-thoughts
+200,Bridge in the Touch,Nonfiction,444,bridge-in-the-touch
+202,The Kissing Lord,Comic/Graphic Novel,293,the-kissing-lord
+203,Flames in the Fire,Fairy tale,407,flames-in-the-fire
+205,The Unwilling Bridges,Nonfiction,456,the-unwilling-bridges
+206,Wind of Voyages,Fantasy,286,wind-of-voyages
+208,The Sword's Ship,Nonfiction,220,the-sword-s-ship
+209,Silent Fire,Horror,537,silent-fire
+210,The Elves of the Rings,Biography,349,the-elves-of-the-rings
+212,Magnificent Girl,Classic,506,magnificent-girl
+213,Silent Touch,Science fiction,584,silent-touch
+214,The Body's Slaves,Biography,498,the-body-s-slaves
+216,The Lovely Planet,Thriller,395,the-lovely-planet
+217,The Time's Night,Comic/Graphic Novel,466,the-time-s-night
+232,The Naked Sword,Comic/Graphic Novel,464,the-naked-sword
+236,The Flight of the Secret,Horror,359,the-flight-of-the-secret
+237,Scent of Alien,Science fiction,392,scent-of-alien
+241,Healer in the Sparks,Detective,381,healer-in-the-sparks
+252,The Cracked Woman,Classic,263,the-cracked-woman
+271,Crying in the Ice,Fantasy,207,crying-in-the-ice
+274,The Door of the Dying,Horror,505,the-door-of-the-dying
+282,Snake of Rainbow,Biography,464,snake-of-rainbow
+285,Rough Willow,Fairy tale,325,rough-willow
+305,The Silken Edge,Fairy tale,405,the-silken-edge
+307,The Planet's Flames,Horror,515,the-planet-s-flames
+110,The Way of the Destiny,Nonfiction,452,the-way-of-the-destiny
+221,Spirit in the Truth,Fantasy,552,spirit-in-the-truth
+222,The Door's Lords,Thriller,589,the-door-s-lords
+223,Willow in the Flames,Nonfiction,392,willow-in-the-flames
+224,The Dying's Obsession,Biography,227,the-dying-s-obsession
+226,The Dream's Sword,Comic/Graphic Novel,453,the-dream-s-sword
+227,Body in the Crying,Horror,229,body-in-the-crying
+231,The Cold Willow,Biography,457,the-cold-willow
+233,The Sliver of the Night,Detective,324,the-sliver-of-the-night
+234,The Legacy of the Edge,Classic,320,the-legacy-of-the-edge
+235,Purple Person,Fairy tale,232,purple-person
+240,The Bride's Silk,Classic,348,the-bride-s-silk
+242,The Bridges's Trainer,Nonfiction,543,the-bridges-s-trainer
+244,Silk in the Waves,Detective,255,silk-in-the-waves
+245,The Whispering Spark,Thriller,324,the-whispering-spark
+246,Flight in the Wave,Biography,411,flight-in-the-wave
+247,The Thief's Souls,Comic/Graphic Novel,547,the-thief-s-souls
+250,Witches in the Thorns,Biography,411,witches-in-the-thorns
+251,The Burning Roses,Comic/Graphic Novel,293,the-burning-roses
+253,Children of Valley,Nonfiction,429,children-of-valley
+254,Birth in the Scent,Fantasy,279,birth-in-the-scent
+255,Third Moon,Classic,400,third-moon
+258,The Memory's Touch,Fantasy,335,the-memory-s-touch
+259,The Bare Ice,Thriller,321,the-bare-ice
+260,The Dying Search,Biography,301,the-dying-search
+262,The Prince of the Angels,Horror,416,the-prince-of-the-angels
+263,The Obsession's Way,Detective,410,the-obsession-s-way
+264,Forgotten Someone,Science fiction,573,forgotten-someone
+266,Legend of Consort,Detective,177,legend-of-consort
+268,Serpent of Silence,Comic/Graphic Novel,545,serpent-of-silence
+272,Alien of Witch,Thriller,375,alien-of-witch
+275,The Danger's Beginning,Horror,196,the-danger-s-beginning
+276,The Gate's Trainer,Horror,391,the-gate-s-trainer
+277,The Silk of the Kiss,Fairy tale,165,the-silk-of-the-kiss
+279,The Touch of the Fairy,Biography,405,the-touch-of-the-fairy
+281,The Entwined Destiny,Science fiction,410,the-entwined-destiny
+283,The Grey Snake,Fantasy,545,the-grey-snake
+284,Flames of Star,Horror,462,flames-of-star
+286,The Every Mage,Comic/Graphic Novel,425,the-every-mage
+288,Time of Slaves,Science fiction,163,time-of-slaves
+289,Laughing Courage,Fantasy,304,laughing-courage
+290,The Missing Mist,Biography,159,the-missing-mist
+292,Son in the Words,Horror,171,son-in-the-words
+293,The Frozen Winter,Biography,528,the-frozen-winter
+295,Thorn in the Lord,Thriller,194,thorn-in-the-lord
+297,Prince of Lover,Detective,569,prince-of-lover
+298,Emerald Serpents,Horror,211,emerald-serpents
+299,Seventh Kiss,Classic,244,seventh-kiss
+301,The Flames of the Window,Nonfiction,385,the-flames-of-the-window
+304,The Wild Snow,Nonfiction,378,the-wild-snow
+306,The First Tears,Horror,207,the-first-tears
+308,The Witches's Cloud,Thriller,455,the-witches-s-cloud
+309,The Last Nothing,Thriller,155,the-last-nothing
+311,Frozen Tower,Thriller,355,frozen-tower
+312,Body in the Windows,Nonfiction,174,body-in-the-windows
+313,Lonely Voyagers,Fantasy,448,lonely-voyagers
+314,Wet Star,Fairy tale,290,wet-star
+316,Cracked Gate,Classic,468,cracked-gate
+317,The Consort of the Stars,Biography,328,the-consort-of-the-stars
+320,Valley in the Soaring,Horror,252,valley-in-the-soaring
+321,Winter of Dying,Horror,363,winter-of-dying
+322,Truth in the Ashes,Fairy tale,246,truth-in-the-ashes
+323,Wanton Thief,Detective,562,wanton-thief
+325,Someone in the Predator,Comic/Graphic Novel,391,someone-in-the-predator
+326,School in the Captive,Comic/Graphic Novel,187,school-in-the-captive
+327,The Soul's Stars,Biography,599,the-soul-s-stars
+329,The Slaves's Thoughts,Fantasy,332,the-slaves-s-thoughts
+336,First Fire,Horror,276,first-fire
+348,Soaring in the Truth,Nonfiction,341,soaring-in-the-truth
+356,Absent Someone,Biography,530,absent-someone
+360,The Third Search,Fairy tale,504,the-third-search
+371,Time of Person,Comic/Graphic Novel,573,time-of-person
+376,Living Misty,Nonfiction,526,living-misty
+387,The Some Stream,Detective,183,the-some-stream
+392,Cracked Planet,Detective,546,cracked-planet
+394,Snow in the Way,Detective,542,snow-in-the-way
+402,The Cold Son,Science fiction,504,the-cold-son
+407,The Angels's Scent,Biography,193,the-angels-s-scent
+410,What Children,Thriller,581,what-children
+424,The Sucking Serpents,Nonfiction,272,the-sucking-serpents
+425,The Secrets's Academy,Biography,335,the-secrets-s-academy
+220,Slaves in the Destruction,Fairy tale,250,slaves-in-the-destruction
+332,The Stars's Elves,Biography,433,the-stars-s-elves
+333,The Delicious Healing,Horror,542,the-delicious-healing
+334,Windows of Storms,Thriller,596,windows-of-storms
+337,The Magnificent Consort,Biography,429,the-magnificent-consort
+338,The Scent's Vision,Fantasy,578,the-scent-s-vision
+339,Worlds of Dream,Classic,343,worlds-of-dream
+341,The Dream's Danger,Thriller,256,the-dream-s-danger
+342,Absent Captive,Fantasy,429,absent-captive
+343,The Names of the Night,Fairy tale,436,the-names-of-the-night
+344,Darkness of Boy,Fairy tale,485,darkness-of-boy
+347,The Tears of the Kiss,Nonfiction,280,the-tears-of-the-kiss
+349,The Bride's Elves,Horror,444,the-bride-s-elves
+350,The School's Sparks,Comic/Graphic Novel,348,the-school-s-sparks
+352,Last Past,Classic,290,last-past
+353,The Frozen Slaves,Comic/Graphic Novel,497,the-frozen-slaves
+354,Ships of Secret,Science fiction,263,ships-of-secret
+355,Night in the Husband,Nonfiction,263,night-in-the-husband
+358,The Misty's Teacher,Classic,359,the-misty-s-teacher
+359,Bound Crying,Fairy tale,373,bound-crying
+362,The Door's Winter,Fantasy,220,the-door-s-winter
+363,Planet of Bridge,Comic/Graphic Novel,319,planet-of-bridge
+365,The Erect Thorns,Classic,221,the-erect-thorns
+367,Beginning of Flight,Science fiction,305,beginning-of-flight
+368,The Illusion's Obsession,Science fiction,554,the-illusion-s-obsession
+369,Tower of Search,Detective,562,tower-of-search
+373,Tales in the Woman,Biography,165,tales-in-the-woman
+374,Ice in the Window,Science fiction,170,ice-in-the-window
+378,Visions of Weeping,Thriller,390,visions-of-weeping
+379,The Future's Return,Horror,523,the-future-s-return
+380,Theft in the Slaves,Classic,526,theft-in-the-slaves
+382,Spirit in the Someone,Biography,396,spirit-in-the-someone
+383,Snake of Kiss,Detective,528,snake-of-kiss
+384,Sleeping Fire,Fantasy,294,sleeping-fire
+385,Delicious Child,Biography,170,delicious-child
+388,The Shores's Men,Detective,462,the-shores-s-men
+389,Princess in the Twins,Detective,225,princess-in-the-twins
+390,Soul of Butterfly,Biography,460,soul-of-butterfly
+396,The Scent's Petals,Science fiction,407,the-scent-s-petals
+397,The Stones's Silk,Science fiction,398,the-stones-s-silk
+398,The Wild Heart,Classic,178,the-wild-heart
+399,Cloud in the Serpent,Horror,168,cloud-in-the-serpent
+401,The Entwined Storms,Nonfiction,234,the-entwined-storms
+403,The Time's Planet,Science fiction,524,the-time-s-planet
+405,Smooth Destiny,Fantasy,497,smooth-destiny
+406,The Dying Ice,Thriller,339,the-dying-ice
+408,Entwined Slave,Nonfiction,595,entwined-slave
+411,Flame in the Door,Fairy tale,461,flame-in-the-door
+412,The Which Birch,Detective,269,the-which-birch
+413,Sparks of Prophecy,Fairy tale,156,sparks-of-prophecy
+414,The Luscious Sword,Detective,402,the-luscious-sword
+420,Cracked Future,Detective,295,cracked-future
+421,Slaves of Cloud,Science fiction,180,slaves-of-cloud
+422,First Husband,Detective,327,first-husband
+423,Rainbow in the Angel,Classic,233,rainbow-in-the-angel
+427,Prized Servants,Science fiction,346,prized-servants
+428,Legend in the Heart,Thriller,185,legend-in-the-heart
+430,The Bloody Servants,Biography,364,the-bloody-servants
+431,Splintered Nothing,Classic,521,splintered-nothing
+434,Storm in the Nobody,Comic/Graphic Novel,595,storm-in-the-nobody
+435,Blue Witch,Comic/Graphic Novel,210,blue-witch
+439,Souls of Slaves,Biography,550,souls-of-slaves
+440,Misty of Door,Thriller,266,misty-of-door
+446,Dying Words,Nonfiction,234,dying-words
+449,The Moons of the Academy,Comic/Graphic Novel,209,the-moons-of-the-academy
+453,The Servants of the Servants,Science fiction,428,the-servants-of-the-servants
+455,Time of Flame,Fairy tale,468,time-of-flame
+464,The Wife's Nothing,Fairy tale,328,the-wife-s-nothing
+468,Slave in the Night,Classic,222,slave-in-the-night
+470,Flame of Lights,Comic/Graphic Novel,333,flame-of-lights
+472,River in the Edge,Classic,595,river-in-the-edge
+476,Destruction of Dragon,Nonfiction,348,destruction-of-dragon
+483,Slave of Souls,Detective,462,slave-of-souls
+485,Truth of Hustler,Classic,231,truth-of-hustler
+493,The Captive's Words,Science fiction,286,the-captive-s-words
+502,Slaves in the School,Fantasy,157,slaves-in-the-school
+504,The River's Obsession,Detective,469,the-river-s-obsession
+517,Dreams in the Prince,Nonfiction,507,dreams-in-the-prince
+518,Seventh Cloud,Fantasy,427,seventh-cloud
+530,History in the Pirates,Classic,159,history-in-the-pirates
+534,The Healer of the Gift,Biography,572,the-healer-of-the-gift
+537,Worlds of Flame,Comic/Graphic Novel,323,worlds-of-flame
+441,The Dangerous Night,Comic/Graphic Novel,289,the-dangerous-night
+442,The Years of the Slave,Nonfiction,421,the-years-of-the-slave
+443,Whispering Shards,Biography,253,whispering-shards
+447,The Petals of the Ashes,Nonfiction,319,the-petals-of-the-ashes
+448,Silken Lover,Classic,481,silken-lover
+451,Touch of Theft,Fantasy,401,touch-of-theft
+452,The Voyage's Blade,Thriller,383,the-voyage-s-blade
+454,The Thorn of the Death,Fairy tale,451,the-thorn-of-the-death
+457,First Guardian,Thriller,589,first-guardian
+458,Slave in the Wave,Fantasy,319,slave-in-the-wave
+462,Rose of Ice,Horror,179,rose-of-ice
+463,The Person's Angels,Nonfiction,414,the-person-s-angels
+465,Illusion in the Tower,Thriller,200,illusion-in-the-tower
+466,The Future of the Waves,Fairy tale,504,the-future-of-the-waves
+469,The Vacant World,Detective,174,the-vacant-world
+471,Hunter in the Ashes,Horror,198,hunter-in-the-ashes
+473,Whispering Slaves,Nonfiction,565,whispering-slaves
+477,Frozen Streams,Classic,401,frozen-streams
+478,The Snow's Door,Horror,376,the-snow-s-door
+479,The Year of the Girl,Fantasy,241,the-year-of-the-girl
+480,The Touch's Gate,Horror,347,the-touch-s-gate
+481,The Dark Window,Nonfiction,417,the-dark-window
+484,Lords of Flame,Classic,328,lords-of-flame
+486,Dying Way,Biography,310,dying-way
+489,The Smooth Obsession,Fantasy,557,the-smooth-obsession
+490,The Wild Tears,Fantasy,218,the-wild-tears
+492,The Smooth Obsession,Detective,425,the-smooth-obsession
+494,The Cracked Search,Thriller,494,the-cracked-search
+496,Next Servant,Fairy tale,587,next-servant
+497,The Luscious Slaves,Classic,301,the-luscious-slaves
+498,The Dying's Wizard,Detective,310,the-dying-s-wizard
+499,The Servant's Swords,Classic,408,the-servant-s-swords
+501,Illusion in the Eyes,Fairy tale,308,illusion-in-the-eyes
+503,First Star,Fairy tale,267,first-star
+506,Abyss in the Eyes,Fantasy,259,abyss-in-the-eyes
+507,Twinkling Slaves,Biography,418,twinkling-slaves
+509,Something in the Lord,Horror,404,something-in-the-lord
+511,The Husband of the Gift,Fairy tale,416,the-husband-of-the-gift
+513,The Bride's Storm,Classic,419,the-bride-s-storm
+514,Moon in the Flying,Fantasy,374,moon-in-the-flying
+515,The Wife's Dreamer,Biography,287,the-wife-s-dreamer
+516,The Truth's Soaring,Fantasy,431,the-truth-s-soaring
+520,Night of Heart,Classic,395,night-of-heart
+521,The Sword of the Elves,Thriller,588,the-sword-of-the-elves
+522,Each Souls,Science fiction,283,each-souls
+524,Sword in the Thought,Fairy tale,323,sword-in-the-thought
+525,The Forgotten Voyager,Biography,150,the-forgotten-voyager
+526,Legend in the Hunter,Nonfiction,405,legend-in-the-hunter
+529,Snake of River,Science fiction,258,snake-of-river
+531,Weeping Ship,Comic/Graphic Novel,529,weeping-ship
+532,The Angel's Waves,Biography,491,the-angel-s-waves
+535,Dream of Gate,Biography,185,dream-of-gate
+539,The Laughing Waves,Classic,161,the-laughing-waves
+540,Final Word,Classic,209,final-word
+541,The Sleeping Snow,Fairy tale,181,the-sleeping-snow
+542,The Silver Body,Classic,383,the-silver-body
+556,Seventh Thought,Detective,286,seventh-thought
+558,Flying of Mists,Comic/Graphic Novel,220,flying-of-mists
+561,Ice in the Eyes,Fantasy,539,ice-in-the-eyes
+563,The Soaring's Hustler,Horror,380,the-soaring-s-hustler
+572,The Lonely Stream,Classic,246,the-lonely-stream
+575,Only Ashes,Detective,509,only-ashes
+580,The Wave of the Years,Fairy tale,351,the-wave-of-the-years
+585,The Soul of the Rings,Detective,479,the-soul-of-the-rings
+591,The Some Mists,Nonfiction,181,the-some-mists
+592,Crying in the Teacher,Fairy tale,233,crying-in-the-teacher
+598,Lovely Stone,Detective,597,lovely-stone
+602,The Witches's Wave,Nonfiction,398,the-witches-s-wave
+603,The Hard Edge,Science fiction,578,the-hard-edge
+605,Deep Silence,Thriller,503,deep-silence
+608,Captured Eye,Biography,174,captured-eye
+609,The Seventh Lover,Thriller,600,the-seventh-lover
+618,The Third Servants,Fairy tale,497,the-third-servants
+629,Rising Door,Science fiction,494,rising-door
+631,The Last Dreams,Fairy tale,480,the-last-dreams
+635,Professional Tale,Fairy tale,493,professional-tale
+636,Souls in the Spark,Detective,514,souls-in-the-spark
+639,The Wizard's Body,Nonfiction,225,the-wizard-s-body
+642,The Death of the Alien,Comic/Graphic Novel,212,the-death-of-the-alien
+644,Frozen Moon,Thriller,228,frozen-moon
+645,Blade of Beginning,Fantasy,177,blade-of-beginning
+649,The Willow's Stones,Fairy tale,296,the-willow-s-stones
+438,Dreamer in the Flower,Fairy tale,245,dreamer-in-the-flower
+95,Gate of Crying,Classic,366,gate-of-crying
+131,Truth in the Waves,Detective,523,truth-in-the-waves
+146,The Years's Wizards,Nonfiction,167,the-years-s-wizards
+204,Dwindling Child,Nonfiction,231,dwindling-child
+230,Absent Years,Science fiction,434,absent-years
+270,The Kiss of the Voyages,Detective,396,the-kiss-of-the-voyages
+372,The Bare Secret,Nonfiction,443,the-bare-secret
+395,The Dream's Sorcerer,Classic,595,the-dream-s-sorcerer
+444,Sucking Dreamer,Classic,375,sucking-dreamer
+544,Predator in the Roses,Comic/Graphic Novel,309,predator-in-the-roses
+545,Laughing Doors,Detective,192,laughing-doors
+546,Magic of Danger,Thriller,452,magic-of-danger
+547,Wild Twins,Classic,306,wild-twins
+549,Healer in the Servant,Fairy tale,502,healer-in-the-servant
+550,Emerald Abyss,Fairy tale,224,emerald-abyss
+551,Truth of Slave,Fantasy,560,truth-of-slave
+554,Edge in the Star,Thriller,449,edge-in-the-star
+555,Servant in the Destruction,Fairy tale,217,servant-in-the-destruction
+557,Servant of Swords,Nonfiction,516,servant-of-swords
+560,The Heat of the Men,Nonfiction,340,the-heat-of-the-men
+562,The Ashes of the Spark,Thriller,179,the-ashes-of-the-spark
+564,Witch in the Captive,Classic,379,witch-in-the-captive
+565,Woman of Stone,Nonfiction,320,woman-of-stone
+567,The Fallen Nothing,Fairy tale,466,the-fallen-nothing
+569,The Only Serpents,Fantasy,593,the-only-serpents
+571,Abyss of Fire,Thriller,180,abyss-of-fire
+573,The Shadowy Man,Horror,571,the-shadowy-man
+576,Sacred Waves,Fantasy,222,sacred-waves
+578,The Rough Sparks,Fantasy,360,the-rough-sparks
+579,The Years of the Wave,Thriller,286,the-years-of-the-wave
+582,Fallen Storms,Fairy tale,443,fallen-storms
+584,The Soul's Servant,Fantasy,324,the-soul-s-servant
+586,The Theft's Flames,Thriller,287,the-theft-s-flames
+589,Only Wife,Science fiction,352,only-wife
+590,The Shadowy Swords,Comic/Graphic Novel,577,the-shadowy-swords
+593,Teacher in the Legacy,Horror,230,teacher-in-the-legacy
+594,The Green Serpents,Nonfiction,234,the-green-serpents
+595,Ragged Teacher,Thriller,308,ragged-teacher
+596,The Year's Shores,Fairy tale,555,the-year-s-shores
+600,Dying Tale,Thriller,332,dying-tale
+601,Legend in the Game,Horror,415,legend-in-the-game
+604,Words of Voyagers,Detective,364,words-of-voyagers
+607,Lonely Truth,Thriller,445,lonely-truth
+611,The Delicious Past,Detective,536,the-delicious-past
+612,The Cracked Hunter,Science fiction,592,the-cracked-hunter
+614,Angels in the Vision,Fairy tale,393,angels-in-the-vision
+615,The Slave of the Silk,Horror,193,the-slave-of-the-silk
+617,The Voyager's Swords,Fantasy,312,the-voyager-s-swords
+620,The Silken Years,Fairy tale,336,the-silken-years
+622,The Professional Stars,Biography,206,the-professional-stars
+623,River in the Bride,Fairy tale,269,river-in-the-bride
+626,The Dream's Academy,Fantasy,360,the-dream-s-academy
+627,The Son's Academy,Science fiction,586,the-son-s-academy
+628,The Rough Windows,Comic/Graphic Novel,219,the-rough-windows
+632,Missing Waves,Fantasy,165,missing-waves
+633,Frozen Husband,Detective,343,frozen-husband
+637,Waves in the Obsession,Horror,477,waves-in-the-obsession
+638,The Angels's Dreamer,Nonfiction,596,the-angels-s-dreamer
+641,Dreams in the Someone,Fantasy,272,dreams-in-the-someone
+647,The Dying Search,Horror,600,the-dying-search
+648,The Predator of the Mage,Nonfiction,403,the-predator-of-the-mage
+651,Dwindling Search,Horror,420,dwindling-search
+652,The Dying Sword,Fantasy,469,the-dying-sword
+654,The Lord of the Woman,Classic,539,the-lord-of-the-woman
+656,Shadow of Door,Thriller,172,shadow-of-door
+660,Silvery Men,Horror,538,silvery-men
+674,The Lover of the Slave,Fairy tale,186,the-lover-of-the-slave
+686,The Lonely Snake,Fairy tale,427,the-lonely-snake
+691,The Healer of the Sword,Horror,495,the-healer-of-the-sword
+693,The Truth of the Roses,Fairy tale,250,the-truth-of-the-roses
+696,The Trembling Witches,Thriller,560,the-trembling-witches
+699,Green Soaring,Nonfiction,478,green-soaring
+700,The Boy of the Return,Nonfiction,179,the-boy-of-the-return
+705,Cracked Rose,Detective,400,cracked-rose
+708,Naked Women,Science fiction,456,naked-women
+720,The Laughing Lords,Horror,256,the-laughing-lords
+725,The Slaves of the Year,Classic,374,the-slaves-of-the-year
+729,Cloud of Waves,Science fiction,349,cloud-of-waves
+735,The Stones of the Dreams,Horror,368,the-stones-of-the-dreams
+738,The Rising Sliver,Comic/Graphic Novel,351,the-rising-sliver
+739,Lonely Scent,Classic,331,lonely-scent
+49,Child of Thorns,Comic/Graphic Novel,179,child-of-thorns
+79,Pleasure in the Edge,Horror,464,pleasure-in-the-edge
+86,The Serpent's Rings,Science fiction,231,the-serpent-s-rings
+114,Diamond Wings,Detective,186,diamond-wings
+133,Rough Sword,Biography,533,rough-sword
+147,The Invisible Thoughts,Classic,458,the-invisible-thoughts
+149,The Ravaged Trainer,Comic/Graphic Novel,442,the-ravaged-trainer
+180,The Silence's Mage,Fairy tale,388,the-silence-s-mage
+181,The Swords's Soul,Fantasy,537,the-swords-s-soul
+225,Angels of Boy,Fairy tale,265,angels-of-boy
+257,Fairy in the Gift,Comic/Graphic Novel,482,fairy-in-the-gift
+269,Flowers in the Snow,Comic/Graphic Novel,481,flowers-in-the-snow
+296,Word of Snake,Classic,204,word-of-snake
+300,The Scent's Women,Comic/Graphic Novel,299,the-scent-s-women
+303,The Slave's Rose,Classic,470,the-slave-s-rose
+318,Dying Light,Nonfiction,357,dying-light
+330,The Vision's Night,Science fiction,234,the-vision-s-night
+361,The Slaves of the Destiny,Detective,430,the-slaves-of-the-destiny
+415,Door in the Waves,Comic/Graphic Novel,189,door-in-the-waves
+416,Captured Flames,Science fiction,203,captured-flames
+437,The Laughing Flowers,Classic,229,the-laughing-flowers
+450,The Ravaged Women,Thriller,567,the-ravaged-women
+456,Person of Ice,Science fiction,558,person-of-ice
+461,Roses of Boy,Comic/Graphic Novel,312,roses-of-boy
+553,The Willing Lights,Science fiction,376,the-willing-lights
+568,Hard Nothing,Detective,507,hard-nothing
+570,Petals of Storms,Fairy tale,227,petals-of-storms
+621,Magnificent Storms,Detective,276,magnificent-storms
+624,Thorns in the Body,Classic,592,thorns-in-the-body
+646,Shadow in the Flower,Detective,252,shadow-in-the-flower
+653,Dying of Word,Science fiction,562,dying-of-word
+657,The Women of the Wizards,Comic/Graphic Novel,557,the-women-of-the-wizards
+658,The Flames of the Moons,Thriller,177,the-flames-of-the-moons
+659,Princess of Snake,Fantasy,535,princess-of-snake
+662,Professional Mage,Horror,236,professional-mage
+663,The Emperor's Soaring,Classic,364,the-emperor-s-soaring
+664,The Burning Birth,Fantasy,300,the-burning-birth
+666,The Flames's Wizards,Science fiction,335,the-flames-s-wizards
+667,Flight of Stars,Comic/Graphic Novel,498,flight-of-stars
+668,Rings in the Thought,Horror,418,rings-in-the-thought
+670,The Secret of the Dreams,Fairy tale,472,the-secret-of-the-dreams
+672,Voyager in the Sword,Horror,191,voyager-in-the-sword
+676,The Dream of the Secrets,Fantasy,213,the-dream-of-the-secrets
+677,The Children of the Wife,Horror,153,the-children-of-the-wife
+679,Winter of Truth,Fairy tale,260,winter-of-truth
+680,Fairy of Snake,Biography,533,fairy-of-snake
+681,The Vacant Worlds,Fairy tale,281,the-vacant-worlds
+682,Someone in the Search,Nonfiction,291,someone-in-the-search
+684,The Secrets's Years,Fantasy,304,the-secrets-s-years
+685,Pleasure in the Sword,Thriller,187,pleasure-in-the-sword
+687,Consort in the Valley,Thriller,462,consort-in-the-valley
+689,Sleeping Secrets,Detective,218,sleeping-secrets
+692,Force in the Winter,Horror,277,force-in-the-winter
+694,The Twins's Spirits,Detective,528,the-twins-s-spirits
+698,The Shadow's Lord,Detective,431,the-shadow-s-lord
+701,Waves of Savior,Horror,288,waves-of-savior
+702,The Serpents's Tears,Science fiction,310,the-serpents-s-tears
+703,Ship of Girl,Nonfiction,287,ship-of-girl
+706,Bridges in the Dragon,Nonfiction,241,bridges-in-the-dragon
+707,The Edge of the Touch,Thriller,253,the-edge-of-the-touch
+709,The Lord's Mist,Fairy tale,461,the-lord-s-mist
+711,Someone in the Dreaming,Fairy tale,385,someone-in-the-dreaming
+712,Broken River,Comic/Graphic Novel,392,broken-river
+713,The Dreamer's Waves,Biography,496,the-dreamer-s-waves
+715,Flying of Visions,Fairy tale,345,flying-of-visions
+716,The Ship of the Willow,Detective,572,the-ship-of-the-willow
+717,Search of Heat,Horror,186,search-of-heat
+718,The Waves's Hunter,Fairy tale,456,the-waves-s-hunter
+722,Whispering Storms,Horror,478,whispering-storms
+723,Willow of Tears,Horror,496,willow-of-tears
+724,The Destiny's Destruction,Nonfiction,578,the-destiny-s-destruction
+726,Pleasure in the Truth,Thriller,330,pleasure-in-the-truth
+728,Soul of Soul,Fantasy,563,soul-of-soul
+730,Rings of Healer,Detective,208,rings-of-healer
+731,Child in the Heat,Comic/Graphic Novel,539,child-in-the-heat
+732,Shards in the Woman,Fantasy,368,shards-in-the-woman
+734,Cold Light,Nonfiction,166,cold-light
+737,The Sons of the Servants,Thriller,378,the-sons-of-the-servants
+740,Sparks in the End,Fantasy,445,sparks-in-the-end
+741,The Ice's Windows,Nonfiction,387,the-ice-s-windows
+77,The Emperor's Secrets,Horror,470,the-emperor-s-secrets
+219,Flames of Shard,Biography,264,flames-of-shard
+228,Storms in the Stones,Biography,461,storms-in-the-stones
+229,The Eye of the Savior,Horror,423,the-eye-of-the-savior
+238,The Stripped Destiny,Classic,231,the-stripped-destiny
+331,Tears of Window,Nonfiction,583,tears-of-window
+419,Next Hustler,Comic/Graphic Novel,211,next-hustler
+432,All Dreamer,Fairy tale,319,all-dreamer
+436,Forgotten Lights,Biography,509,forgotten-lights
+527,The End's Windows,Comic/Graphic Novel,433,the-end-s-windows
+581,Only Moons,Science fiction,276,only-moons
+675,The Time's Spirits,Nonfiction,253,the-time-s-spirits
+1,Final Future,Classic,221,final-future
+2,The Shard's Twilight,Comic/Graphic Novel,388,the-shard-s-twilight
+15,Snake of Sorcerer,Comic/Graphic Novel,156,snake-of-sorcerer
+17,Force in the Soul,Fantasy,218,force-in-the-soul
+20,First Weeping,Detective,563,first-weeping
+24,Mist in the Angel,Classic,180,mist-in-the-angel
+29,The Wanton Weeping,Comic/Graphic Novel,369,the-wanton-weeping
+33,The Invisible Ice,Fantasy,195,the-invisible-ice
+34,Silk in the Voyager,Comic/Graphic Novel,437,silk-in-the-voyager
+36,The Streams's Future,Detective,441,the-streams-s-future
+40,Wave of Gate,Thriller,266,wave-of-gate
+45,Diamond Twilight,Classic,430,diamond-twilight
+48,Stars in the Sword,Nonfiction,395,stars-in-the-sword
+54,The Frozen Tears,Fantasy,249,the-frozen-tears
+57,The Snake's Slaves,Comic/Graphic Novel,426,the-snake-s-slaves
+62,The Bride of the Future,Classic,558,the-bride-of-the-future
+67,The Misty Silk,Detective,291,the-misty-silk
+72,Legacy in the Children,Biography,385,legacy-in-the-children
+76,The Bloody Emerald,Nonfiction,479,the-bloody-emerald
+83,The Obsessed Swords,Comic/Graphic Novel,293,the-obsessed-swords
+89,Theft of Names,Thriller,284,theft-of-names
+91,The Forgotten Abyss,Science fiction,544,the-forgotten-abyss
+96,Voyagers of Valley,Biography,394,voyagers-of-valley
+102,The Dark Healing,Thriller,272,the-dark-healing
+103,Forgotten Darkness,Comic/Graphic Novel,309,forgotten-darkness
+106,The Destruction's Gift,Classic,434,the-destruction-s-gift
+109,Red Shard,Science fiction,504,red-shard
+116,The Kiss's Game,Fantasy,286,the-kiss-s-game
+121,The Souls's Academy,Fantasy,268,the-souls-s-academy
+127,The Only Death,Nonfiction,590,the-only-death
+130,The Servants of the Storm,Thriller,322,the-servants-of-the-storm
+137,Time in the Worlds,Nonfiction,436,time-in-the-worlds
+141,The Secret of the Scent,Fairy tale,538,the-secret-of-the-scent
+144,The Last Shadow,Thriller,586,the-last-shadow
+150,Lovely Kiss,Comic/Graphic Novel,410,lovely-kiss
+151,Lights in the Fire,Detective,497,lights-in-the-fire
+155,The Snow of the Someone,Nonfiction,491,the-snow-of-the-someone
+159,The Sword of the Men,Thriller,367,the-sword-of-the-men
+164,Person in the Someone,Science fiction,552,person-in-the-someone
+169,Scent in the Night,Horror,474,scent-in-the-night
+172,The Wave of the Hunter,Nonfiction,391,the-wave-of-the-hunter
+173,The Forgotten Voyage,Science fiction,373,the-forgotten-voyage
+179,The Ravaged Misty,Science fiction,563,the-ravaged-misty
+185,The Sword of the Someone,Thriller,355,the-sword-of-the-someone
+187,Beginning of Wizards,Thriller,304,beginning-of-wizards
+191,The Flying of the End,Fairy tale,282,the-flying-of-the-end
+196,Hunter of Ice,Comic/Graphic Novel,434,hunter-of-ice
+201,The Flowers's Stone,Horror,466,the-flowers-s-stone
+207,The Year's Prince,Nonfiction,176,the-year-s-prince
+211,Spirit of End,Biography,413,spirit-of-end
+215,Ship of Door,Nonfiction,574,ship-of-door
+218,The Something of the Husband,Detective,511,the-something-of-the-husband
+239,Butterfly in the Obsession,Fairy tale,167,butterfly-in-the-obsession
+243,The Illusion of the Storm,Fantasy,519,the-illusion-of-the-storm
+248,The Theft of the Sword,Detective,177,the-theft-of-the-sword
+249,The Misty of the Vision,Comic/Graphic Novel,504,the-misty-of-the-vision
+256,Broken Spark,Detective,268,broken-spark
+261,The Guardian's Shadow,Comic/Graphic Novel,524,the-guardian-s-shadow
+265,Laughing Predator,Horror,292,laughing-predator
+267,Final Visions,Fairy tale,447,final-visions
+273,The Sword of the Flowers,Nonfiction,477,the-sword-of-the-flowers
+278,The Slaves of the Dreams,Biography,396,the-slaves-of-the-dreams
+280,The Wizards's Scent,Nonfiction,331,the-wizards-s-scent
+287,The Sliver's Star,Classic,439,the-sliver-s-star
+291,The Mists's Lover,Science fiction,561,the-mists-s-lover
+294,The Something of the Predator,Fairy tale,240,the-something-of-the-predator
+302,Cloud of Teacher,Nonfiction,382,cloud-of-teacher
+310,The Windows's Wind,Thriller,319,the-windows-s-wind
+315,The Truth's Snow,Detective,151,the-truth-s-snow
+319,The Snow of the Voyager,Biography,253,the-snow-of-the-voyager
+377,The Silent Wizard,Thriller,304,the-silent-wizard
+505,The Slave's Girl,Science fiction,346,the-slave-s-girl
+324,The Sword of the Servants,Science fiction,255,the-sword-of-the-servants
+328,Thorns in the Dragon,Classic,423,thorns-in-the-dragon
+335,The Nothing's Ice,Nonfiction,592,the-nothing-s-ice
+340,The Winter of the Flowers,Detective,420,the-winter-of-the-flowers
+345,Roses of Academy,Science fiction,162,roses-of-academy
+346,Bridge in the Shores,Classic,500,bridge-in-the-shores
+351,The Dreams of the Fire,Classic,370,the-dreams-of-the-fire
+357,The Sacred Sorcerer,Comic/Graphic Novel,315,the-sacred-sorcerer
+364,Dream in the Soul,Thriller,305,dream-in-the-soul
+366,The Prince of the Search,Nonfiction,394,the-prince-of-the-search
+370,Spirits of Petals,Horror,311,spirits-of-petals
+375,The Secret's Serpents,Fantasy,243,the-secret-s-serpents
+381,The Flame of the Valley,Classic,408,the-flame-of-the-valley
+386,The Way's Hustler,Science fiction,476,the-way-s-hustler
+391,The Stone's Wings,Science fiction,570,the-stone-s-wings
+393,The Servants's Vision,Detective,508,the-servants-s-vision
+400,Teacher in the Roses,Science fiction,593,teacher-in-the-roses
+404,The Snake of the Weeping,Comic/Graphic Novel,195,the-snake-of-the-weeping
+409,The Seventh Dreams,Detective,538,the-seventh-dreams
+417,The Thought of the Flames,Fairy tale,182,the-thought-of-the-flames
+418,The Weeping of the Academy,Horror,437,the-weeping-of-the-academy
+426,Snake in the Waves,Thriller,533,snake-in-the-waves
+429,The Lord of the Pleasure,Classic,600,the-lord-of-the-pleasure
+433,The Serpent of the Girl,Classic,393,the-serpent-of-the-girl
+445,The Thoughts's Person,Horror,442,the-thoughts-s-person
+459,Devoted Heart,Comic/Graphic Novel,418,devoted-heart
+460,The Voyager of the Pirates,Thriller,450,the-voyager-of-the-pirates
+467,The Silent Window,Nonfiction,280,the-silent-window
+474,Sparks in the Danger,Fairy tale,309,sparks-in-the-danger
+475,The Frozen Past,Fairy tale,278,the-frozen-past
+482,Fallen Magic,Horror,223,fallen-magic
+487,The Children's Darkness,Biography,233,the-children-s-darkness
+488,The Words of the Ships,Classic,195,the-words-of-the-ships
+491,The Ship of the Dream,Fairy tale,558,the-ship-of-the-dream
+495,The School of the Emperor,Fairy tale,579,the-school-of-the-emperor
+500,Elves in the Twins,Detective,585,elves-in-the-twins
+508,The Hard Visions,Horror,247,the-hard-visions
+510,The Sword of the Destiny,Science fiction,348,the-sword-of-the-destiny
+512,The Fire of the Dreamer,Comic/Graphic Novel,542,the-fire-of-the-dreamer
+519,Splintered Snake,Detective,409,splintered-snake
+523,The Souls of the Dreams,Biography,182,the-souls-of-the-dreams
+528,The Academy of the Vision,Biography,235,the-academy-of-the-vision
+533,The Girl's Misty,Comic/Graphic Novel,555,the-girl-s-misty
+536,Misty of Lords,Science fiction,523,misty-of-lords
+538,The Dying of the Person,Biography,380,the-dying-of-the-person
+543,The Silky Bridge,Comic/Graphic Novel,361,the-silky-bridge
+548,The Absent Waves,Fairy tale,313,the-absent-waves
+552,The Stolen Secret,Fantasy,326,the-stolen-secret
+559,The Sliver of the Vision,Science fiction,459,the-sliver-of-the-vision
+566,Tears in the Secret,Science fiction,236,tears-in-the-secret
+574,Spirits of Alien,Detective,378,spirits-of-alien
+577,Mist in the Slaves,Biography,239,mist-in-the-slaves
+583,Way in the Predator,Fantasy,213,way-in-the-predator
+587,Destruction in the Princess,Comic/Graphic Novel,447,destruction-in-the-princess
+588,The Trembling Sword,Horror,177,the-trembling-sword
+597,The Erect Flying,Nonfiction,379,the-erect-flying
+599,The Sacred Wizards,Detective,234,the-sacred-wizards
+606,The Child's Dreams,Thriller,536,the-child-s-dreams
+610,Sky in the Lord,Nonfiction,526,sky-in-the-lord
+613,Trembling Thought,Biography,311,trembling-thought
+616,Forgotten Ships,Comic/Graphic Novel,337,forgotten-ships
+619,Stone in the Soul,Horror,522,stone-in-the-soul
+625,The Night's Healing,Science fiction,283,the-night-s-healing
+630,The Swollen Doors,Fairy tale,406,the-swollen-doors
+634,The Flower of the Ice,Thriller,240,the-flower-of-the-ice
+640,The Night's Tower,Comic/Graphic Novel,496,the-night-s-tower
+643,Dreaming in the Mage,Detective,522,dreaming-in-the-mage
+650,Sky of Voyagers,Science fiction,211,sky-of-voyagers
+655,Final Child,Comic/Graphic Novel,332,final-child
+661,The Luscious Past,Fantasy,425,the-luscious-past
+665,The Falling Ashes,Fantasy,191,the-falling-ashes
+669,Missing Scent,Classic,250,missing-scent
+671,Servant of Flying,Horror,461,servant-of-flying
+673,Pirates of Dragon,Thriller,298,pirates-of-dragon
+678,Voyages of Danger,Thriller,515,voyages-of-danger
+683,The Deep Mist,Science fiction,450,the-deep-mist
+688,Dwindling Shadow,Fantasy,498,dwindling-shadow
+690,Servant of Lights,Horror,508,servant-of-lights
+695,The Time of the Stream,Thriller,353,the-time-of-the-stream
+697,The Angel of the Storms,Nonfiction,598,the-angel-of-the-storms
+704,Bound Storm,Detective,346,bound-storm
+710,The Abyss of the Silk,Comic/Graphic Novel,540,the-abyss-of-the-silk
+714,The Trembling Kiss,Comic/Graphic Novel,367,the-trembling-kiss
+719,Shadowy Sorcerer,Science fiction,455,shadowy-sorcerer
+721,The Game of the Soaring,Science fiction,367,the-game-of-the-soaring
+727,Hunter in the Butterfly,Classic,423,hunter-in-the-butterfly
+733,Twinkling Ice,Comic/Graphic Novel,491,twinkling-ice
+736,Worlds of Future,Nonfiction,447,worlds-of-future
+742,Hunter in the Someone,Horror,560,hunter-in-the-someone
