@@ -1,4 +1,5 @@
-SELECT *
-FROM public.accounts;
-
-
+SELECT count(*)
+FROM users
+WHERE 
+  email LIKE '%@boogle.%' ;
+  
