@@ -23,6 +23,4 @@ Access:
 
 ## tbc
 
-https://www.sqlhabit.com/content/lessons/referencing-columns-by-numbers 
-
-
+https://www.sqlhabit.com/content/lessons/organic-vs-paid-signups
