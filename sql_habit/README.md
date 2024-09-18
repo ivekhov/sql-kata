@@ -23,4 +23,7 @@ Access:
 
 ## tbc
 
-https://www.sqlhabit.com/content/lessons/organic-vs-paid-signups
+https://www.sqlhabit.com/content/lessons/import-of-marketing-data
+
+
+
